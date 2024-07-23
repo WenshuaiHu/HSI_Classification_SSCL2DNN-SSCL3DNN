@@ -1,4 +1,4 @@
-# HSI_Classification_SSCL2DNN-SSCL3DNN
+# Spatial–Spectral Feature Extraction via Deep ConvLSTM Neural Networks for Hyperspectral Image Classification
 
 # Abstract:
 
