@@ -16,7 +16,7 @@ Please cite our paper if you find the code or dataset useful for your research.
   volume={58},<br>
   number={6},<br>
   pages={4237-4250},<br>
-  keywords={Feature extraction;Logic gates;Neural networks;Hyperspectral imaging;Data models;Deep learning;Classification;convolutional long short-term memory (ConvLSTM);deep learning;feature extraction;hyperspectral image (HSI)},
+  keywords={Feature extraction;Logic gates;Neural networks;Hyperspectral imaging;Data models;Deep learning;Classification;convolutional long short-term memory (ConvLSTM);deep learning;feature extraction;hyperspectral image (HSI)},<br>
   doi={10.1109/TGRS.2019.2961947}}
 
   # Requirements
