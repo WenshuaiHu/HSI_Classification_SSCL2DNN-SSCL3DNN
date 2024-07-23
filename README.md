@@ -24,12 +24,9 @@ Please cite our paper if you find the code or dataset useful for your research.
   doi={10.1109/TGRS.2019.2961947}}
 
   # Requirements
-  CUDA Version: 8.0
 
-  Tflearn Version: 0.3.2
+  Tflearn
   
-  Tensorflow-GPU Version: 1.4.0
-  
-  Python Version: 3.5.4
+  Tensorflow V1
 
 # Note
