@@ -1,6 +1,6 @@
 # Spatial–Spectral Feature Extraction via Deep ConvLSTM Neural Networks for Hyperspectral Image Classification
 
-Paper web page: [Spatial–Spectral Feature Extraction via Deep ConvLSTM Neural Networks for Hyperspectral Image Classification.](https://ieeexplore.ieee.org/document/9369839)
+Paper web page: [Spatial–Spectral Feature Extraction via Deep ConvLSTM Neural Networks for Hyperspectral Image Classification.](https://ieeexplore.ieee.org/document/8960629)
 
 Related code will be released gradually.
 
