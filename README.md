@@ -9,14 +9,10 @@ In recent years, deep learning has presented a great advance in the hyperspectra
 Please cite our paper if you find the code or dataset useful for your research.
 
 @ARTICLE{8960629,
-  author={Hu, Wen-Shuai and Li, Heng-Chao and Pan, Lei and Li, Wei and Tao, Ran and Du, Qian},
-  
+  author={Hu, Wen-Shuai and Li, Heng-Chao and Pan, Lei and Li, Wei and Tao, Ran and Du, Qian}
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  
   title={Spatial–Spectral Feature Extraction via Deep ConvLSTM Neural Networks for Hyperspectral Image Classification}, 
-  
   year={2020},
-  
   volume={58},
   
   number={6},
