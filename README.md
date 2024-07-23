@@ -10,12 +10,19 @@ Please cite our paper if you find the code or dataset useful for your research.
 
 @ARTICLE{8960629,
   author={Hu, Wen-Shuai and Li, Heng-Chao and Pan, Lei and Li, Wei and Tao, Ran and Du, Qian},
+  
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  
   title={Spatial–Spectral Feature Extraction via Deep ConvLSTM Neural Networks for Hyperspectral Image Classification}, 
+  
   year={2020},
+  
   volume={58},
+  
   number={6},
+  
   pages={4237-4250},
+  
   keywords={Feature extraction;Logic gates;Neural networks;Hyperspectral imaging;Data models;Deep learning;Classification;convolutional long short-term memory (ConvLSTM);deep learning;feature extraction;hyperspectral image (HSI)},
   doi={10.1109/TGRS.2019.2961947}}
 
