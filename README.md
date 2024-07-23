@@ -20,7 +20,7 @@ Please cite our paper if you find the code or dataset useful for your research.
   doi={10.1109/TGRS.2019.2961947}}
 
   # Requirements
-  CUDA Version: 11.3
+  CUDA Version: 8.0
 
   Tflearn Version: 0.3.2
   
